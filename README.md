@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RMB8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Bioengineering
+- 👀 I’m interested in AI, image processing, biological signals and the whole bioengineering world
+- 🌱 I’m currently learning Bioengineering at the University of Padova
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me riccardo.malgarottoboschiero@studenti.unipd.it
 
 <!---
 RMB8/RMB8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
